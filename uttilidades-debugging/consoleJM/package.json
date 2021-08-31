@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "name": "javidev_27_consolejm_color",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "bin": {
+    "consoleJM": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Javier Manobanda <51manobandajavier@gmail.com> (http://javimanobanda.com/)",
+  "license": "MIT",
+  "description": ""
+}

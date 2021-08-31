@@ -1,0 +1,15 @@
+{
+  "name": "nuevoproyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Javier Manobanda <dev.javimanobanda.online> (http://javimanobanda.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "javidev_27_consolejm_color": "^1.0.0"
+  }
+}
